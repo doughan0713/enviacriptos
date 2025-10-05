@@ -435,11 +435,11 @@ A: Não, requer Python 3.7 ou superior.
 
 - 📖 [Documentação FaucetPay](https://faucetpay.io/page/api)
 - 💬 [Issues no GitHub](https://github.com/seu-usuario/faucetpay-sender/issues)
-- 📮 Email: suporte@seudominio.com
+- 📮 Email: contato@softpog.com.br
 
 ## 🙏 Agradecimentos
 
-- [FaucetPay](https://faucetpay.io) pela excelente API
+- [FaucetPay](https://faucetpay.io/?r=3122571) pela excelente API
 - Comunidade Python pelo suporte
 - Todos os contribuidores do projeto
 
@@ -449,6 +449,6 @@ A: Não, requer Python 3.7 ou superior.
 
 **⭐ Se este projeto foi útil, considere dar uma estrela! ⭐**
 
-Feito com ❤️ e ☕ por [Seu Nome](https://github.com/seu-usuario)
+Feito com ❤️ e ☕ por [Seu Nome](https://github.com/doughanmoraes)
 
 </div># enviacriptos
